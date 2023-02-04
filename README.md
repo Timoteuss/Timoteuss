@@ -12,7 +12,7 @@
 ### :man_technologist: About Me :
 I am working as a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👋 I’m Timothy
-- 🌱 I'm currently doing manual UI, API and DB testing, and I'm also learning automated testing in Python.
+- 🌱 I'm currently doing manual UI, API and DB testing, and I'm also learning automation testing in Python.
 - 💞️ I’m ready to help projects that need quality assurance.
 - 📫 How to reach me: telegram - @Timothy_Sh
 
