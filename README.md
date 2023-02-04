@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/RNuffdtG6JdMRNrOlc/giphy.gif?cid=ecf05e47msstwxiqmi22d1o8kfwkxutc31gevsyjgobwxphg&rid=giphy.gif&ct=g" width="150"/>
+  <img src="https://media2.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif?cid=790b761189dd9825d42d0bea5f81b1b04e88efaa4c16728a&rid=giphy.gif&ct=g" width="250"/>
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Timoteuss&style=plastic&color=blue" alt=""/>
