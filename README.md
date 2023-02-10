@@ -10,11 +10,16 @@
 </div>
 
 ### :man_technologist: About Me :
-I am working as a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 👋 I’m Timothy
-- 🌱 I'm currently doing manual UI, API and DB testing, and I'm also learning automation testing in Python.
-- 💞️ I’m ready to help projects that need quality assurance.
-- 📫 How to reach me: telegram - @Timothy_Sh
+👋 My name is Timothy  
+&#128373; I'm working as a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+&#128187; I'm currently doing manual UI, API and DB testing, and I'm also learning automation testing in Python.  
+&#129309; I’m ready to help projects that need quality assurance.  
+&#128242; <b>How to reach me:</b>
+<div>
+  <h3>
+  <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/48/Telegram-icon.png" title="Telegram" alt="Telegram" width="30" height="30"/>&nbsp; <strong>@Timothy_Sh</strong>
+  </h3>
+</div> 
 
 ---
 
