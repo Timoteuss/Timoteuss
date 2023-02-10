@@ -17,7 +17,7 @@
 &#128242; <b>How to reach me:</b>
 <div>
   <h3>
-  <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/48/Telegram-icon.png" title="Telegram" alt="Telegram" width="30" height="30"/>&nbsp; <strong>@Timothy_Sh</strong>
+  <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/48/Telegram-icon.png" title="Telegram" alt="Telegram" width="25" height="25"/>&nbsp; <strong>@Timothy_Sh</strong>
   </h3>
 </div> 
 
