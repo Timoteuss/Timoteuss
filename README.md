@@ -12,7 +12,7 @@
 ### :man_technologist: About Me :
 👋 My name is Timothy  
 &#128373; I'm working as a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-&#128187; I'm currently doing manual UI, API and DB testing, and I'm also learning automation testing in Python.  
+&#128187; I'm currently doing manual UI, API and DB testing, and I'm also learning automation testing in Playwright by using JavaScript.  
 &#129309; I’m ready to help projects that need quality assurance.  
 &#128242; <b>How to reach me:</b>
 <div>
